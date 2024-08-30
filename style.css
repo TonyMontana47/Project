@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    background-color: whitesmoke;
+    text-align: center ;
+    margin: 50px;
+    height: 85vh;
+    width: 30%;
+    /* padding: 50px; */
+   margin: auto;
+   
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+h3{
+    color: darkorange;
+    /* margin: 5px;
+    margin-bottom: 5px; */
+    padding: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.fa-face-smile{
+    color: darkorange;
+    font-size: 60px;
+    margin-bottom: 30px;
+
+}
+
+h2{
+    color: darkblue;
+    font-size: 30px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first{
+    font-size: larger;
+    padding: 15px;
+    color: darkblue;
+    
+}
+
+label{
+    /* padding-right: 200px; */
+    text-align: left;
+    display: block;
+    padding-left: 30px;
+    font-size: larger ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+}
+
+input{
+    font-size: 32px;
+   border: 2px solid rgba(0, 0, 255, 0.315);
+   border-radius: 10px;
+   /* height: fit-content; */
+   margin-bottom: 20px;
+   
+   
+}
+
+.check{
+    text-align: left;
+    display: inline-block;
+    
+    
+}
+
+.forgot{
+    margin-left: 70px;
+    color: blue;
+    font-size: larger ;
+}
+
+.submit{
+    color: red;
+    width: 300px;
+
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 10px;
+    font-size: 20px ;
+    
+}
+
+
+
